@@ -1,0 +1,24 @@
+
+.pat-info td {
+    width: 25%
+}
+
+.power-info td {
+    width: 50%
+}
+
+.exam-info td {
+    width: 33%
+}
+
+.exam-info th {
+    width: 33%
+}
+
+.shoulder .row {
+    margin-bottom: 5px;
+}
+
+.title-head {
+    font-weight: bold;
+}

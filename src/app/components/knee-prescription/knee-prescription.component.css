@@ -1,0 +1,20 @@
+
+.pat-info td {
+    width: 25%
+}
+
+.exam-info td {
+    width: 33%
+}
+
+.exam-info th {
+    width: 33%
+}
+
+.knee .row {
+    margin-bottom: 5px;
+}
+
+.title-head {
+    font-weight: bold;
+}
